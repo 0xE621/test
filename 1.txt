@@ -1,6 +1,7 @@
 
 commit number 2
 
+<<<<<<< HEAD
 and on branch two we delete everything to do with the number 3
 
 commit number 4
@@ -14,3 +15,8 @@ locally were making more changes after merge
 alright right now we're working on branch 2
 and adding more code
 more edits to branch2
+=======
+commit number 3
+unshown in 3
+commit number 4
+>>>>>>> parent of e327678 (commit 5)
